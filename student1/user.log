@@ -1,0 +1,24 @@
+0    [main] DEBUG com.hrious.test.Test  - 程序启动
+4017 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库资源配置文件加载成功
+4708 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库Connection对象获取成功
+4792 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库PreparedStatement对象创建成功
+28488 [main] DEBUG com.hrious.test.Test  - 关闭程序
+0    [main] DEBUG com.hrious.test.Test  - 程序启动
+0    [main] DEBUG com.hrious.test.Test  - 程序启动
+12483 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库资源配置文件加载成功
+12858 [main] ERROR com.hrious.util.JdbcUtil  - 数据库连接对象获取失败ORA-01017: invalid username/password; logon denied
+
+0    [main] DEBUG com.hrious.test.Test  - 程序启动
+2125 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库资源配置文件加载成功
+2483 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库Connection对象获取成功
+2575 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库PreparedStatement对象创建成功
+0    [main] DEBUG com.hrious.test.Test  - 程序启动
+6344 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库资源配置文件加载成功
+6697 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库Connection对象获取成功
+6781 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库PreparedStatement对象创建成功
+15854 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库Connection对象获取成功
+15854 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库PreparedStatement对象创建成功
+0    [main] DEBUG com.hrious.test.Test  - 程序启动
+2038 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库资源配置文件加载成功
+2386 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库Connection对象获取成功
+2470 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库PreparedStatement对象创建成功
