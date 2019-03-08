@@ -22,3 +22,4 @@
 2038 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库资源配置文件加载成功
 2386 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库Connection对象获取成功
 2470 [main] DEBUG com.hrious.util.JdbcUtil  - 数据库PreparedStatement对象创建成功
+0    [main] DEBUG com.hrious.test.Test  - 程序启动
