@@ -38,7 +38,5 @@
         insert into t_user values(seq_user.nextval,'唐三藏',33);
         insert into t_user values(seq_user.nextval,'白龙马',16);
         
-                   我是使用序列来插入数据的,这个可以根据需要来改
-        
     2.src/db.properties中配置数据库连接信息
     
