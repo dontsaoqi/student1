@@ -1,4 +1,4 @@
-package com.hrious.test;
+package com.hrious.main;
 
 import java.util.Scanner;
 
@@ -7,8 +7,8 @@ import org.apache.log4j.Logger;
 import com.hrious.service.UserService;
 import com.hrious.serviceImpl.UserServiceImpl;
 
-public class Test {
-	private static Logger logger = Logger.getLogger(Test.class);
+public class Main {
+	private static Logger logger = Logger.getLogger(Main.class);
 
 	public static void main(String[] args) {
 		logger.debug("≥Ã–Ú∆Ù∂Ø");
